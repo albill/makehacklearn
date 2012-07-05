@@ -1,6 +1,6 @@
-# Jekyll for [openbuddha.com](http://openbuddha.com)
+# Jekyll for [makehacklearn.org](http://makehacklearn.org)
 
-Everything in this repository is automatically transformed by [Jekyll](http://github.com/mojombo/jekyll) into a static site whenever I push this repository to GitHub and is uploaded to [openbuddha.com](http://openbuddha.com).
+Everything in this repository is automatically transformed by [Jekyll](http://github.com/mojombo/jekyll) into a static site whenever I push this repository to GitHub and is uploaded to [makehacklearn.org](http://makehacklearn.org).
 
 # Features
 
