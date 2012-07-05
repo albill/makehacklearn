@@ -11,6 +11,7 @@ categories:
 - Hacking
 - Technology
 ---
+<p style="text-align:center"><em>Originally published on <a href="http://www.openbuddha.com/2012/01/31/Little-Brother-on-Stage/">Open Buddha</a></em></p>
 <p style="text-align:center"><a href="http://www.custommade.org/little-brother/pictures/" title="Little Brother - Opening Pose"><img src="http://farm8.staticflickr.com/7141/6798892349_e9dc5882b3.jpg" width="465" height="500" alt="Little Brother - Opening Pose"></a></p>
 I went with friends on Sunday night to see the Custom Made Theater Company's [adaptation](http://www.custommade.org/little-brother/) of Cory Doctorow's young adult novel, [Little Brother](http://craphound.com/littlebrother/). As most of my friends know, I am a fan of Doctorow's work in general, finding him to be both an excellent writer but also someone speaking on things that I care greatly about as someone who works at Mozilla on open source and keeping the web as open as possible. I am also a particular fan of this book, having given a copy to my own daughter (who is now 15) to read because I think it addresses a lot of important issues in our current times. When I found out that a stage version of the play was being done and done locally, I was excited and determined to see it.
 

@@ -16,6 +16,7 @@ categories:
 type: post
 status: publish
 ---
+<p style="text-align:center"><em>Originally published on <a href="http://www.openbuddha.com/2011/10/28/College-of-Lockpicking/">Open Buddha</a></em></p>
 <p style="text-align:center"><a href="http://www.flickr.com/photos/albill/6288305414/" title="Untitled by albill, on Flickr"><img src="http://farm7.static.flickr.com/6228/6288305414_dbf6e875c1.jpg" width="500" height="374" alt=""></a></p>
 Last night, [Ace Monster Toys](http://www.acemonstertoys.org) had a two hour or so workshop by guests, Eric and Jamie, from the [College of Lockpicking](http://collegeoflockpicking.com). This was a brief history of locks and lockpicking followed by a hands on practicum where we all got to work on learning to pick locks hands on with some help and supervision.
 
