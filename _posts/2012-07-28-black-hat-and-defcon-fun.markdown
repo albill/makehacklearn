@@ -1,7 +1,7 @@
 --- 
 layout: post
 date: '2012-07-28 15:33:00'
-title: Black Hat and Defon Fun
+title: Black Hat and Defcon Fun
 tags: 
 - Black Hat
 - Defcon
