@@ -38,4 +38,4 @@ I'm actually excited by this device, which is unusual for my jaded self at this 
 
 The one downside is that Makerbot Industries' prices keep going up. The Cupcake was something like $900 or $1,000 as a kit and the common price point is from there to about $1,400. This new device is $2,200, basically. That isn't cheap, which means people really need to think about whether they want or need this device. It is definitely worth considering though.
 
-**Update**: I see Wired magazine has a [big piece](http://www.wired.com/design/2012/09/how-makerbots-replicator2-will-launch-era-of-desktop-manufacturing/) up now. 
+**Update**: I see Wired magazine has a [big piece](http://www.wired.com/design/2012/09/how-makerbots-replicator2-will-launch-era-of-desktop-manufacturing/) up now. Make Magazine has a [mini review](http://blog.makezine.com/2012/09/19/mini-review-of-the-replicator-2/) up as well.
