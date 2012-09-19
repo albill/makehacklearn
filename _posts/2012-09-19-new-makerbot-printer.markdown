@@ -36,4 +36,6 @@ Features that they are listing are:
 
 I'm actually excited by this device, which is unusual for my jaded self at this point. My main, personal, goal with a 3D printer is to design and print cool things. I'm actually quite tired of the ongoing "build and maintain a 3D printer from scratch or a kit" type projects. I just want to print stuff. This new Replicator 2, along with the current Up Plus and the upcoming Up Mini, is one of the few things out there to fulfill this goal. 
 
-The one downside is that Makerbot Industries' prices keep going up. The Cupcake was something like $900 or $1,000 as a kit and the common price point is from there to about $1,400. This new device is $2,200, basically. That isn't cheap, which means people really need to think about whether they want or need this device. It is definitely worth considering though.
+The one downside is that Makerbot Industries' prices keep going up. The Cupcake was something like $900 or $1,000 as a kit and the common price point is from there to about $1,400. This new device is $2,200, basically. That isn't cheap, which means people really need to think about whether they want or need this device. It is definitely worth considering though.
+
+**Update**: I see Wired magazine has a [big piece](http://www.wired.com/design/2012/09/how-makerbots-replicator2-will-launch-era-of-desktop-manufacturing/) up now. 
