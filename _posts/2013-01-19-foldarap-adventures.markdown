@@ -20,7 +20,7 @@ Building this, the most difficult part has been sourcing the materials. Emmanuel
 
 With the Huxley components, that meant that he used a 140 mm square aluminum heating bed. Since Prusa Mendels are the most common RepRaps that I see here in the US, I either had to order overseas for the bed or cut my own. I actually found an individual making them, removing the necessicity to cut my own plate and then tap it for screw holes for mounting. 
 
-Most American builders are using hotends from [Makergear](http://makergear.com) or J-Head Nozzles (which are out of stock for my size plastic except for Chinese copies). I didn't feel inclined to deal with yet another custom extruder system (see Rostock Mini issues at beginning of post) so I wound up getting the [Huxley extruder](http://www.emakershop.com/browse/listing?l=320) that Emmanuel recommended, minus a few unnecessary parts. 
+Most American builders are using hotends from [Makergear](http://makergear.com) or [J-Head](http://reprap.org/wiki/J_Head_Nozzle) hotends (which are out of stock for my size plastic except for Chinese copies). I didn't feel inclined to deal with yet another custom extruder system (see Rostock Mini issues at beginning of post) so I wound up getting the [Huxley extruder](http://www.emakershop.com/browse/listing?l=320) that Emmanuel recommended, minus a few unnecessary parts. 
 
 The extrusion of choice here in the US is [MiSumi 2020](http://us.misumi-ec.com/us/ItemDetail/10302368740.html). It costs $3 for a 300 mm long piece, which means for about $30 plus cheap shipping (in California even), I can have regular, solid aluminum pieces. As a bonus, Misumi will cut to length in half millimeter increments so the pieces arrive ready to go.
 
