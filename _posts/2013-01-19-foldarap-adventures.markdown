@@ -36,4 +36,6 @@ Luckily for me, open source wins! Emmanuel has the source for the FoldaRap up on
 
 <p style="text-align:center"><a href="http://www.flickr.com/photos/albill/8397407310/" title="Misumi-compatible Foldarap_z-top-left by albill, on Flickr"><img src="http://farm9.staticflickr.com/8184/8397407310_1e402b3311.jpg" width="500" height="375" alt="Misumi-compatible Foldarap_z-top-left"></a></p>
 
+If Emmanuel wants it, I'll submit a patch to Github with the Misumi specific changes to the four files. I made a separate sketchup file with just those four pieces in it. That might be my first submitted patch on github if I do so.
+
 I'm now printing out the other three pieces (two of them are three hour prints each) so I can begin the actual process of assembling the FoldaRap over this three day weekend. Given the missing electronics and general slackitude, I don't expect that I'll finish it this weekend (hmm…I'm missing my power supply as well, come to think of it) but I do expect progress. I'll then get back to my pesky Rostock Mini. I expect that the FoldaRap build will go quite a bit more quickly as Emmanuel's [build documentation](http://reprap.org/wiki/FoldaRap_Build_Manual) is quite thorough with both pictures and video of the various stages. 
