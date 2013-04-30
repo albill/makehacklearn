@@ -341,8 +341,6 @@ h1 img, h2 img {
   margin: auto;
   background-color: white;
   border: 1px solid #ccc;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
-  padding: 8px;
 }
 
 /** Code styles **/
