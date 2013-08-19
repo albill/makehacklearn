@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Weird Records from 3D Printers and Laser Cutters
-date: '2014-05-23 23:00:00'
+date: '2013-05-23 23:00:00'
 tags: 
 - 3d printers
 - record

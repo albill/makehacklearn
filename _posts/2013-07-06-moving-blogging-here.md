@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Moving Blogging Here
-date: '2014-07-06 14:00:00'
+date: '2013-07-06 14:00:00'
 tags: 
 categories:
 - Technology
