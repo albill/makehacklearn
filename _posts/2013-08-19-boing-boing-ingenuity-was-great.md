@@ -7,7 +7,6 @@ tags:
 categories:
 - Technology
 - Mutants
-- Boing Boing
 ---
 <div style="text-align:center"><a href="http://www.flickr.com/photos/albill/9541405937/" title="IMG_4770 by albill, on Flickr"><img src="http://farm3.staticflickr.com/2827/9541405937_9caa07f2e1.jpg" width="500" height="375" alt="IMG_4770"></a></div>
 
