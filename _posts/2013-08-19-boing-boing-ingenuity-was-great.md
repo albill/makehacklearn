@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Boing Boing: Ingenuity was great!
+title: Boing Boing: Ingenuity was great
 date: '2013-08-19 14:00:00'
 tags: 
 - boing boing
