@@ -2,11 +2,12 @@
 layout: post
 published: true
 title: Boing Boing: Ingenuity was great!
-date: '2014-08-19 14:00:00'
+date: '2013-08-19 14:00:00'
 tags: 
 categories:
 - Technology
 - Mutants
+- boing boing
 ---
 <div style="text-align:center"><a href="http://www.flickr.com/photos/albill/9541405937/" title="IMG_4770 by albill, on Flickr"><img src="http://farm3.staticflickr.com/2827/9541405937_9caa07f2e1.jpg" width="500" height="375" alt="IMG_4770"></a></div>
 
