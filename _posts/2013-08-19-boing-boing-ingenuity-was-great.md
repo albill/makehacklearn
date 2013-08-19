@@ -9,8 +9,7 @@ tags:
 categories:
 - Technology
 ---
-
-<div style="text-align:center"><a href="http://www.flickr.com/photos/albill/9541405937/" title="IMG_4770 by albill, on Flickr"><img src="http://farm3.staticflickr.com/2827/9541405937_9caa07f2e1.jpg" width="500" height="375" alt="IMG_4770"></a></div>
+<p style="text-align:center"><a href="http://www.flickr.com/photos/albill/9541405937/" title="IMG_4770 by albill, on Flickr"><img src="http://farm3.staticflickr.com/2827/9541405937_9caa07f2e1.jpg" width="500" height="375" alt="IMG_4770"></a></p>
 
 I managed to go to [Boing Boing: Ingenuity](http://boingboing.net/tag/ingenuity) this weekend. This was a one day hackathon followed by "vaudeville for geeks" set of presentations and performances yesterday. I actually missed the hackathon on the first day because I wound up having my birthday BBQ for my 42nd birthday (which is today) on Saturday and I'm kind of a crappy coder anyway. This was an invitation event but a free one (sponsored by Ford but it was a low-key sponsorship). I wasn't sure what to expect before I arrived.
 
