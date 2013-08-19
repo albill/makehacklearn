@@ -27,43 +27,25 @@ The last session of the day is the other that I really enjoyed. This was by [Myt
 
 They are:
 
-1. **Get good at something.**
+1. **Get good at something.** <br><br>*Really good. Get good at as many things as you can. Being good at one thing makes it easier to get good at other things.*
 
-*Really good. Get good at as many things as you can. Being good at one thing makes it easier to get good at other things.*
+2. **Getting good at stuff takes practice.**<br><br>*Lots and lots of practice.*
 
-2. **Getting good at stuff takes practice.**
-
-*Lots and lots of practice.*
-
-3. **Get OBSESSED.**
-
-*Everyone at the top of their field is obsessed with what they're doing.*
+3. **Get OBSESSED.**<br><br>*Everyone at the top of their field is obsessed with what they're doing.*
 
 4. **Doing something well and thoroughly is its OWN reward.**
 
-5. **Show and Tell.**
+5. **Show and Tell.**<br><br>*If you do something well and you're happy with it, for FSM's sake, tell EVERYONE.*
 
-*If you do something well and you're happy with it, for FSM's sake, tell EVERYONE.*
+6. **If you want something, ASK.**<br><br>*If something piques your interest, tell someone. If you want to learn something, ask someone, like your BOSS. As an employer, I can tell you, people who want to learn new skills are people I want to keep employed.*
 
-6. **If you want something, ASK.**
+7. **Have GOALS.**<br><br>*Make up goals. Set goals. Regularly assess where you are and where you want to be in terms of them. This is a kind of prayer that works, and works well. Allow for the fact that things will NEVER turn out like you think they will, and you must be prepared to end up miles from where you intended.*
 
-*If something piques your interest, tell someone. If you want to learn something, ask someone, like your BOSS. As an employer, I can tell you, people who want to learn new skills are people I want to keep employed.*
+8. **Be nice. To EVERYONE.**<br><br>*Life is way too short to be an asshole. If you are an asshole, apologize.*
 
-7. **Have GOALS.**
+9. **FAIL.**<br><br>*You will fail. It's one of our jobs in life. Keep failing. When you fail, admit it. When you don't, don't get cocky. 'Cause you're just about to fail again.*
 
-*Make up goals. Set goals. Regularly assess where you are and where you want to be in terms of them. This is a kind of prayer that works, and works well. Allow for the fact that things will NEVER turn out like you think they will, and you must be prepared to end up miles from where you intended.*
-
-8. **Be nice. To EVERYONE.**
-
-*Life is way too short to be an asshole. If you are an asshole, apologize.*
-
-9. **FAIL.**
-
-*You will fail. It's one of our jobs in life. Keep failing. When you fail, admit it. When you don't, don't get cocky. 'Cause you're just about to fail again.*
-
-10. **WORK YOUR ASS OFF.**
-
-*Work like your life depends on it…*
+10. **WORK YOUR ASS OFF.**<br><br>*Work like your life depends on it…*
 
 As someone who spends a lot of his life at a hackerspace, thinking about hackerspaces, and actually trying to make things (and my professional life in kind of a related context), this was both useful and a lot of fun. I think younger makers, especially, could really learn a lot by following these rules. 
 
