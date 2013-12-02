@@ -33,6 +33,8 @@ bing_verify:
 links:
   - title: About Me
     url: /about-me.html
+  - title: Archives
+    url: /archives
   - title: Open Buddha
     url: http://openbuddha.com
     external: true

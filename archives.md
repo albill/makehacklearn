@@ -1,7 +1,7 @@
 ---
 layout: post-index
-permalink: /articles/index.html
-title: Articles
+permalink: /archives/index.html
+title: Archives
 tagline: A List of Posts
 tags: [blog, graphic design]
 ---
