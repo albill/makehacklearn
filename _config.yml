@@ -45,8 +45,11 @@ permalink: /:year/:month/:day/:title/
 links:
   - title: About Me
     url: /about-me.html
-  - title: External Link
-    url: http://mademistakes.com
+  - title: Open Buddha
+    url: http://openbuddha.com
+    external: true
+  - title: Ace Monster Toys
+    url: http://acemonstertoys.org
     external: true
 
 # Amount of post to show on home page
