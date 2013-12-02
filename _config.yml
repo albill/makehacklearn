@@ -1,26 +1,8 @@
-url: http://makehacklearn.org
 title:        Make Hack Learn
+tagline:      Learning to Hack One Inch at a Timee
 description:  Learning to Hack One Inch at a Time
-
-disqus_shortname: makehacklearn
-
-permalink:  /:year/:month/:day/:title/
-
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
-future:      true
-pygments:    true
-markdown:    kramdown
-
-markdown:    kramdown
-
-author:       Al Billings
-author_short: albill
-author_email: albill@openbuddha.com
-feedburner_id: makehacklearn
-disqus_id:    makehacklearn
-disqus_username: albill
-disqus_shortname: makehacklearn
+#Comment out url when working locally to resolve base urls correctly
+url:          http://makehacklearn.org
 
 # Owner/author information
 owner:
@@ -40,7 +22,11 @@ owner:
   # For Google Authorship https://plus.google.com/authorship
   google_plus:   https://plus.google.com/u/0/+AlBillings/
 
-permalink: /:year/:month/:day/:title/  
+# Analytics and webmaster tools stuff goes here
+google_analytics:   
+google_verify:      
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:        
 
 # Links to include in top navigation
 # For external links add external: true
@@ -54,8 +40,14 @@ links:
     url: http://acemonstertoys.org
     external: true
 
-# Amount of post to show on home page
-paginate: 3
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/Los_Angeles
+future:      true
+pygments:    true
+markdown:    kramdown
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink: /:year/:month/:day/:title/ 
 
 kramdown:
   auto_ids: true
