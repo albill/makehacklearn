@@ -9,7 +9,9 @@ permalink:  /:year/:month/:day/:title/
 timezone:    America/Los_Angeles
 future:      true
 pygments:    true
+
 markdown:    kramdown
+
 author:       Al Billings
 author_short: albill
 author_email: albill@openbuddha.com
@@ -63,7 +65,7 @@ kramdown:
   use_coderay: false
 
   coderay:
-    coderay_line_numbers: nil
+    coderay_line_numbers: 
     coderay_line_numbers_start: 1
     coderay_tab_width: 4
     coderay_bold_every: 10
