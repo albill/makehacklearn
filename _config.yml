@@ -1,26 +1,62 @@
-markdown: rdiscount
-pygments: false
-permalink:  /:year/:month/:day/:title/
-paginate: 3
 url: http://makehacklearn.org
 title:        Make Hack Learn
 description:  Learning to Hack One Inch at a Time
-url_root:     http://makehacklearn.org
+
+disqus_shortname: makehacklearn
+
+permalink:  /:year/:month/:day/:title/
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/Los_Angeles
+future:      true
+pygments:    true
+markdown:    kramdown
+paginate: 3
 author:       Al Billings
 author_short: albill
 author_email: albill@openbuddha.com
 feedburner_id: makehacklearn
 disqus_id:    makehacklearn
 disqus_username: albill
-twitter_name: openbuddha
-facebook_uid: 139700605
+disqus_shortname: makehacklearn
+
+# Owner/author information
+owner:
+  name:           Al Billings
+  avatar:         avatar.jpg
+  bio:            "Former @openbuddha, Tabletop RPG Geek, Buddhist, Security Program Manager, Director at Ace Monster Toys (@AMT), an Oakland Hackerspace."
+  email:          albill@gmail.com
+  # Social networking links used in footer. Update and remove as you like.
+  twitter:        makehacklearn
+  facebook:       albill
+  github:         albill
+  stackexchange:  
+  linkedin:       albill
+  instagram:      
+  flickr:         albill
+  tumblr:         
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:   AlBillings
+
+# Background image to be tiled on all pages
+background: ps_neutral.png
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:   
+google_verify:      
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:         
+
 # Change the dir the individual category files are output to
 category_dir: categories # Default is categories
 # Title to be used when generating the individual category html files prefixed to category name
 category_title_prefix: "categories"
-navigation:
-- text: Blog
-  url: /index.html
-  layout: post
-- text: About me
-  url: /about-me.html
+  
+  # Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About Me
+    url: /about-me.html
+  - title: External Link
+    url: http://mademistakes.com
+    external: true

@@ -1,68 +1,62 @@
 ---
-layout: default
-title: Make Hack Learn
+layout: post-index
+title: Latest Posts
+description: "Describe this nonsense."
+tags: [Jekyll, theme, themes, responsive, blog, modern]
+image:
+  feature: abstract-1.jpg
+  credit: dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 
-<div id="home">
-  <!-- Show three posts on front page -->
-    {% for post in paginator.posts limi:3 %}
-<article class="hentry">
-  <!-- Post title -->
-  <h2 class="entry-title"><a class="post_title" href="{{ post.url }}">{{ post.title }}</a></h2>
-  <!-- Date and time of post -->
-  <time datetime="{{ post.date | date: '%Y-%m-%dT%H:%M:%S-08:00' }}">{{ post.date | date: "%B %d, %Y - %I:%m %p" }}</time>  
-  <!-- Post content -->
-  <span class="entry-content">
-  {{ post.content }}
-  </span>
-  <span id="social">
-  <!-- Post Facebook button -->
-  <script type="text/javascript">
-  //<![CDATA[
-  document.write('<fb:like href="{{ site.url }}{{ post.url }}" send="true" layout="button_count" width="450" show_faces="true" colorscheme="light" font="lucida grande"></fb:like>');
-  //]]>
-  </script>
-  <!-- Post comment count -->
-  {% if post.comments %}
-  <a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{ page.date | date_to_xmlschema }}"></a>
-  {% endif %}
-  <!-- Post Tweet Button -->
-  <span style="float:right;">
-    <a href="http://twitter.com/share" class="twitter-share-button" data-url="{{ site.url }}{{ post.url }}" data-text="{{ post.title }} -" data-count="none" data-via="{{ site.twitter_name }}">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></span>
-  </span>
-  <div style="margin-bottom:20px">&nbsp;</div>
-</article>
-    {% endfor %}
-    	    
-<!-- Old posts -->
-</div>
-
-<div class="PostNav">
-  <div class="PostPrevious">
-    {% if paginator.next_page %}
-    &lt;&lt; <a href="/page{{ paginator.next_page}}">Older Posts</a>
-    {% endif %}
-  </div>
-  <div class="PostNext">
-    {% if paginator.previous_page %}
-    {% if paginator.previous_page == 1 %}
-    <a href="/">Newer Posts</a> &gt;&gt;
+{% for post in paginator.posts %}
+<article class="hentry" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+  <header>
+    <div class="entry-meta"><span class="entry-date date published updated"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished"><a href="{{ site.url }}{{ post.url }}">{{ post.date | date: "%B %d, %Y" }}</a></time></span><span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name" class="fn"><a href="{{ site.url }}/about" title="About {{ site.owner.name }}" itemprop="url">{{ site.owner.name }}</a></span></span>{% if site.disqus_shortname and post.comments %}&nbsp; &bull; &nbsp;<span class="entry-comments"><a href="{{ site.url }}{{ post.url }}#disqus_thread">Comment</a></span>{% endif %}</div><!-- /.entry-meta -->
+    {% if post.link %}
+      <h1 class="entry-title" itemprop="name"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" itemprop="url" title="{{ post.title }}"><i class="icon-double-angle-right"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h1>
     {% else %}
-    <a href="/page{{ paginator.previous_page }}">Newer Posts</a> &gt;&gt;
+      <h1 class="entry-title" itemprop="name"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}" itemprop="url">{{ post.title }}</a></h1>
     {% endif %}
+  </header>
+  <div class="entry-content" itemprop="description">
+    {{ post.content }}
+  </div><!-- /.entry-content -->
+</article><!-- /.hentry -->
+{% endfor %}
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    {% if paginator.previous_page == 1 %}
+      <a href="{{ site.url }}" class="btn">Previous</a>
+    {% else %}
+      <a href="{{ site.url }}/page{{ paginator.previous_page }}" class="btn">Previous</a>
     {% endif %}
-  </div>
+  {% else %}
+    Previous
+  {% endif %}
+  <ul class="inline-list">
+    <li>
+      {% if paginator.page == 1 %}
+        <span class="current-page">1</span>
+      {% else %}
+        <a href="{{ site.url }}">1</a>
+      {% endif %}
+    </li>
+    {% for count in (2..paginator.total_pages) %}
+      <li>
+        {% if count == paginator.page %}
+          <span class="current-page">{{ count }}</span>
+        {% else %}
+          <a href="{{ site.url }}/page{{ count }}">{{ count }}</a>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+  {% if paginator.next_page %}
+    <a href="{{ site.url }}/page{{ paginator.next_page }}" class="btn">Next</a>
+  {% else %}
+    Next
+  {% endif %}
+
 </div>
-
-<script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-    var disqus_shortname = 'makehacklearn'; // required: replace example with your forum shortname
-
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function () {
-        var s = document.createElement('script'); s.async = true;
-        s.type = 'text/javascript';
-        s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
-        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-    }());
-</script>
