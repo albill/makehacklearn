@@ -38,8 +38,9 @@ owner:
 
 # Background image to be tiled on all pages
 background: ps_neutral.png
-  
-  # Links to include in top navigation
+permalink: /:year/:month/:day/:title/  
+
+# Links to include in top navigation
 # For external links add external: true
 links:
   - title: About Me
