@@ -38,8 +38,6 @@ owner:
   # For Google Authorship https://plus.google.com/authorship
   google_plus:   https://plus.google.com/u/0/+AlBillings/
 
-# Background image to be tiled on all pages
-background: ps_neutral.png
 permalink: /:year/:month/:day/:title/  
 
 # Links to include in top navigation
