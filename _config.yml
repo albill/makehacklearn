@@ -21,7 +21,7 @@ disqus_shortname: makehacklearn
 # Owner/author information
 owner:
   name:           Al Billings
-  avatar:         avatar.jpg
+  avatar:         bio-photo.jpg
   bio:            "Former @openbuddha, Tabletop RPG Geek, Buddhist, Security Program Manager, Director at Ace Monster Toys (@AMT), an Oakland Hackerspace."
   email:          albill@gmail.com
   # Social networking links used in footer. Update and remove as you like.
@@ -57,7 +57,7 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: true
+  use_coderay: false
 
   coderay:
     coderay_line_numbers: nil
