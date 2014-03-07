@@ -1,7 +1,7 @@
 --- 
 layout: post
 date: '2014-03-06 18:00:00'
-title: Short Update
+title: TrustyCon Videos Availale
 tags: 
 - trustycon
 - nsa
