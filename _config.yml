@@ -32,7 +32,7 @@ bing_verify:
 # For external links add external: true
 links:
   - title: About Me
-    url: /about
+    url: /about-me
   - title: Archives
     url: /archives
   - title: Open Buddha
