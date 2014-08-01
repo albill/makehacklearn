@@ -1,6 +1,14 @@
---- 
-layout: page
-title: About Me
+---
+layout: post
+published: true
+title: Weird Records from 3D Printers and Laser Cutters
+date: '2013-05-23 23:00:00'
+tags: 
+- 3d printers
+- record
+- lasercutters
+categories:
+- Technology
 ---
 I'm Al Jigong Billings. This is my blog about making, hacking, and learning as part of my involvement in a hackerspace and technology in general. I don't update it very often because who reads blogs anymore but, hey, it is here.
 
