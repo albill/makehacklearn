@@ -6,18 +6,27 @@ I hereby claim:
 
   * I am an admin of http://makehacklearn.org
   * I am albillings (https://keybase.io/albillings) on keybase.
-  * I have a public key with fingerprint 7BBE 1BDD 81DB 15ED D685  0478 915A C600 BDF3 130F
+  * I have a public key with fingerprint 2CF2 E8BF 6D1E A953 BBA5  EE32 2BAC 38BF F1D4 FF2E
 
 To claim this, I am signing this object:
 
 {
     "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.3"
+        },
         "key": {
-            "fingerprint": "7bbe1bdd81db15edd6850478915ac600bdf3130f",
+            "fingerprint": "2cf2e8bf6d1ea953bba5ee322bac38bff1d4ff2e",
             "host": "keybase.io",
-            "key_id": "915ac600bdf3130f",
+            "key_id": "2BAC38BFF1D4FF2E",
             "uid": "0f98dfe229a9526dde59fc6df8a80800",
             "username": "albillings"
+        },
+        "merkle_root": {
+            "ctime": 1420664223,
+            "hash": "3995b337481351d22da05eea16d0ef030ba2b8cd95b8c6ee0f3e340445b70f05f961ab0d3f673af50f40f1d6d25e622db42d0e38d2f287498a77f8355db0b70d",
+            "seqno": 124407
         },
         "service": {
             "hostname": "makehacklearn.org",
@@ -26,39 +35,36 @@ To claim this, I am signing this object:
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1397892188,
+    "ctime": 1420664252,
     "expire_in": 157680000,
-    "prev": "45d1dd9ffa2d8d26cbc2f88f59ba0c374325ab59b955d6cc9ca1aad1700d787e",
-    "seqno": 6,
+    "prev": "43b9b833f97e41bc4b034353e0a9dfb53e7aa8b546fb0f06ff568422dc43f79c",
+    "seqno": 22,
     "tag": "signature"
 }
 
 with the aforementioned key, yielding the PGP signature:
 
 -----BEGIN PGP MESSAGE-----
-Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
 
-owGbwMvMwMT4wf2yiEnr7COMpw/8TGIIDlLJqFZKyk+pVLKqVspOBVNpmXnpqUUF
-RZl5JUpWSuZJSamGSSkpFoYpSYamqSkpZhamBibmFpaGponJZgYGSSlpxobGBmlK
-OkoZ+cUgHUBjkhKLU/Uy84FiQE58ZgpQFIv6UrCEQZqlRUpaqpGRZaKlqZFZSkqq
-qWVasllKmkWihYGFgQFIYXFqUV5ibipQdWJOUmZODtCFxUq1OkpA8bLM5FSQq0GW
-Q9XkJmanZiQmZ+ekJhbl6eUXpQONKCjKL8lPzs8BSmeUlBRYgXSXVBaAlJenJsVD
-DYpPysxLARoO1FCWWlScmZ+nZGUIVJlckgky2dDYEuhxI0MLCx2l1IqCzKLU+EyQ
-ClNzM6BDDQxA1qSWAY00MU0xTEmxTEtLNEqxSDEyS05KNkqzsEgztUxKNEg2Njcx
-NjJNTALyLE1NU8ySky2TEw0TE1MMzQ0MUswtzFOVQF4rzMtXsjIDOjMxHWhkcWZ6
-XmJJaVGqUi1XJ5MMCwMjEwMbKxMoBhm4OAVg8frFnv9/SpVb5+Xl5aVMD8U+B2Q+
-muKys2Dbih1372tUbZjMpH9FqE/8vv6691N5Ty7hsb+9aMpqnol2vBv8nh24+zcj
-d9/sD/m11h+2Z7CyTDz9ijcocZFF7R5VmcnHX/Ckcl6eei1hrntyisKEX/FiQjsd
-l7y/nHtgWfm7h4x/g4ovqeYaRZ5uW/kq/p4gn++K8BlLWOrtfu+RuLAmWXu5/2LV
-G1GKLW+uc7isSD+deVFLRvRipm6XlFz7068CnyvrYwQU7q7y2dhQtC/U903dLYtD
-P0JEX+cF1NU3lDkpOF79dd3q2qTbXyU2beyK+prlq/D9b/1c30++PX2zzqtW3C37
-uX5ZkvLt6PhTcbZtHw8LuXJetl9VMTNONMOv9fMG5+2nQgr52ViXbFG7uvW4Udfb
-eAle041zJcoeK6cdKIt9KjY7aknsnCMty19uTQtWzPaQP9Sw4ZTXLaVXuzqW6T2u
-MF+a3CPJNeuEDMuGa1u/uk0V/N62TJ+v4ECLwHKzgoru2f/r+YrvVtodu9jSGHWA
-b/FtI6fVMtcE7+nMUZqvKBdtOFU8S67wu5CbbMWXvXZ+nxwbryQ4N2avFkiYv8Q5
-42LpXF7vnc33FmodTd9V8lQ5UXnLrT+76phC0nceCjOes9F88aLwV5abtBqnVnD9
-DCyeeHhrdepSrYm6XIKpfAdE2eZsZrikw9CWzr30xu2MbQKZTRHPd58K++YFAA==
-=+0fr
+owFdkltoHUUYx0+iSayXphzQKq21rrSl5rCZndvOplJstUkUCha0EpEeZnZmcjbn
+ZPe4uz1pDEETURI9kRLxUks1CD546YNIHyxFJYIvPpSiDVq1amrFtIpGG4tKibMh
+4uVtdr7/9/u+/39n/zWX5Rob2t5k781/smg3fDQncvcePnRsyBKRHLQ6hiy/Eqgw
+zU4h71dWh1VWg4Inyg6i9WEkld2XrF/WFKyaipMgCo0K2K6NrOFCJs+adRD2qrga
+BxnLgr6GiglNpaO4R5AQnCiFIBTcR+ZeOxJrIzHIUpSk/5lqLTGLgcw427fdgdj2
+zk7nTtzZCXeY2t6lAtAek1pB6Bk8pFIq4mmfSs04AwyATJioeNkSr4igUjEbJtnG
+/SouV1QxjqIl234aZCIHQ0AphhCZnXhSMm3I84hAyMXMQcSREEoOjA3uUAmUBggI
+DgXzpVExnyoFNFIIA4yJcIEGRHvU4QJIpKmLuCZAY2CcUwmJooYmMDQgxCTUkLnY
+Y9x1NUOESAEMQRoTiXoojMxyEGPgDmffcS3wVbZ3Ftyyv35eViXuG1c8Du0o7jWd
+1ThKIz+qmHIpTasdmfN0sKqOmIsBJYrLpKIIQmmS+ffPdYz0f6kQWLDUvmoQq2KQ
+KYhLTcoAZHNUzSAxEp5gCGnPVdgRPhYAYUSQAtyTWpiDyzkTBFMtTDZUa0KZSVv6
+GGnX8//xCs2olPcaZhL0hjzdGytreLxh7eW5hsZcc1Nj9nxzV65Y9febfu3FlsWB
+G+Z3/HHp2W/u27zBXvP0rtbKzJ5f5mefbPrhxtuvfm6qa6abTrf0HO9a2DJ2z5Fn
+HlmYXGn3N514aqJv64nnL7z+4BMjtf0fT86uffh818uzDzTnFw+uWDUxmj94a9uG
+ddfecl2+e+LU4T8/HHhj7OK2A6u/3Hlh7reRi60tI+ceP7vJa6Hff3qy0fIeu6LU
+OjY1lP/9qonz8fuVd06dCcdfqE7vvOnHvro6VL//O++nL2zywXhdrFZnNtXbj668
+e+j0bnsjZHM/j4LPR9unh189ee7rQj54t9YD2+9a+My/+e01npjh3zZvfunRX68/
+Pbnn0rq28ldHC7dtLfY0J2/pfeXuqVfqx7dUzzp/AQ==
+=cJYI
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
@@ -67,4 +73,3 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/albillings
 
 ==================================================================
-
